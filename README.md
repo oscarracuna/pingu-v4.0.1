@@ -1,2 +1,2 @@
 # pingu-v4.0.1
-Simple ping script that iterates over csv files
+Simple ping powershell script that iterates over csv files.
